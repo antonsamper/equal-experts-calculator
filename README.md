@@ -14,6 +14,8 @@ To test the calculator you will need to run the `test` script:
 ```
 $ npm test
 ```
+If you see a message saying *No tests found related to files changed since last commit.*, then just press the letter `a` and that will run all the test suites.
+
 
 ## Notes
 * Only the 'add' function works
